@@ -1,4 +1,4 @@
 # AEDII
 
-Esse aqui é meu repositório de trabalhos de AEDs II
-
+Este é meu repositório para guardar meus trabalhos de Algoritmos e
+Estrutura de Dados II
